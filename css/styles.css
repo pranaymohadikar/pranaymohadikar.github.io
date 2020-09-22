@@ -10171,3 +10171,13 @@ section.resume-section .resume-section-content {
     min-height: 100vh;
   }
 }
+
+.ML{
+  font-size: 1.5rem;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+
+.UL{
+  list-style-type: disc;
+}
