@@ -10153,6 +10153,14 @@ section.resume-section {
   padding-bottom: 5rem;
   max-width: 75rem;
 }
+
+section.exp{
+  display: flex;
+  padding-top:3rem;
+  padding-bottom: 3rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
 section.resume-section .resume-section-content {
   width: 100%;
 }
@@ -10227,7 +10235,7 @@ section.resume-section .resume-section-content {
   border-bottom-left-radius: 5px;
 }
 button{
-    
+
   margin-bottom: 10px;
   background-color: white;
   border: 1px solid black;
